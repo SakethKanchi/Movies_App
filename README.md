@@ -2,28 +2,34 @@
 
 A sleek, responsive movie browsing application built with React and powered by The Movie Database (TMDB) API. This app allows users to discover popular movies, search for specific titles, view detailed information about each film, and maintain a personalized list of favorites.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="./images/HomePage.png" width="400" />
-    <br />
-    <sub><b>Home Page</b></sub>
-  </div>
-  <div style="text-align: center;">
-    <img src="./images/MovieDetailsPage.png" width="400" />
-    <br />
-    <sub><b>Movie Details Page</b></sub>
-  </div>
-  <div style="text-align: center;">
-    <img src="./images/SearchPage.png" width="400" />
-    <br />
-    <sub><b>Search Page</b></sub>
-  </div>
-  <div style="text-align: center;">
-    <img src="./images/FavoritesPage.png" width="400" />
-    <br />
-    <sub><b>Favorites Page</b></sub>
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- Row 1 -->
+    <td align="center">
+      <img src="./images/HomePage.png" width="500" />
+      <br />
+      <sub><b>Home Page</b></sub>
+    </td>
+    <td align="center">
+      <img src="./images/SearchPage.png" width="500" />
+      <br />
+      <sub><b>Search Page</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <!-- Row 2 -->
+    <td align="center">
+      <img src="./images/MovieDetailsPage.png" width="500" />
+      <br />
+      <sub><b>Movie Details</b></sub>
+    </td>
+    <td align="center">
+      <img src="./images/FavoritesPage.png" width="500" />
+      <br />
+      <sub><b>Favorites Page</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## ✨ Features
 
